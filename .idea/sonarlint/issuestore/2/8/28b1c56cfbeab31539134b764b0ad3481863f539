@@ -1,0 +1,26 @@
+
+z	java:S135&"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8„ã°Ü1
+7
+java:S1220""Move this file to a named package.8„ã°Ü1
+r
+java:S1450"URemove the "amount" field and declare it as a local variable in the relevant methods.(¶Çşœ8Ó„ã°Ü1
+z
+java:S1450"XRemove the "productId" field and declare it as a local variable in the relevant methods.(·ŠçÖıÿÿÿÿ8Ô„ã°Ü1
+{
+java:S1450"YRemove the "totalPrice" field and declare it as a local variable in the relevant methods.(Á¡†Ïüÿÿÿÿ8Ô„ã°Ü1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¦…÷¼8Éë°Ü1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ØÙ‹8Ö„ã°Ü1
+L	java:S106"+Replace this use of System.out by a logger.(Ş´öùÿÿÿÿ8Ù„ã°Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ªŸÆÃøÿÿÿÿ8Ù„ã°Ü1
+L	java:S106"+Replace this use of System.out by a logger.(‚ÑÅíüÿÿÿÿ8Ù„ã°Ü1
+G	java:S106$"+Replace this use of System.out by a logger.(‘Îï‚8Ú„ã°Ü1
+G	java:S106'"+Replace this use of System.out by a logger.(·ÆÆ‘8Ú„ã°Ü1
+G	java:S106+"+Replace this use of System.out by a logger.(Ù“ñª8Û„ã°Ü1
+L	java:S1064"+Replace this use of System.out by a logger.(ˆé‚Óøÿÿÿÿ8Û„ã°Ü1
+G	java:S1065"+Replace this use of System.out by a logger.(ÿ¦Øë8Û„ã°Ü1
+G	java:S106B"+Replace this use of System.out by a logger.(Ÿõøù8Ü„ã°Ü1
+L	java:S106G"+Replace this use of System.out by a logger.(•õ‰äÿÿÿÿÿ8Ü„ã°Ü1
+L	java:S106L"+Replace this use of System.out by a logger.(Í«­ûùÿÿÿÿ8Ü„ã°Ü1
+G	java:S106O"+Replace this use of System.out by a logger.(œ‚Ëº8İ„ã°Ü1

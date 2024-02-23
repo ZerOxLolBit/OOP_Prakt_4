@@ -1,0 +1,11 @@
+
+€
+java:S1104"^Make transactionHistory a static final constant or non-public and provide accessors if needed.(‘‚¨şÿÿÿÿ8¯ÎÈ†Ü1
+7
+java:S1220""Move this file to a named package.8Ÿÿ¨áÁ1
+L	java:S106"+Replace this use of System.out by a logger.(»Ö¬•şÿÿÿÿ8ÁŸğ‚Ü1
+L	java:S106"+Replace this use of System.out by a logger.(±à–ùÿÿÿÿ8ÄŸğ‚Ü1
+G	java:S106"+Replace this use of System.out by a logger.(’åÆª8ÅŸğ‚Ü1
+L	java:S106%"+Replace this use of System.out by a logger.(×òªûÿÿÿÿ8ÆŸğ‚Ü1
+G	java:S106("+Replace this use of System.out by a logger.(ı÷ŸÌ8ÈŸğ‚Ü1
+G	java:S106+"+Replace this use of System.out by a logger.(‡Ããº8ÈŸğ‚Ü1
